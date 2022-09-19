@@ -1,0 +1,8 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.6.0
+compiler:
+  solc:
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0"
+unlock:
+  - 0x33A4622B82D4c04a53e170c638B944ce27cffce3
